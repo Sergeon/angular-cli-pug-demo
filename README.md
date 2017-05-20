@@ -1,9 +1,9 @@
 # angular-cli-pug-demo
-A demo on how to get angular-cli 1.0.4 to work with pug without to mess with the webpack config or eject
+A demo on how to get angular-cli 1.0.4 to work with pug without to mess with the webpack config or eject.
 
 After searching a bit about how to work with .pug and .jade files with Angular4, I only found articles that get it to work by ejecting the configuration to webpack with `ng eject`.
 
-Then by reading (this issue)[https://github.com/angular/angular-cli/issues/996] I figured out how to get `-pug` files to work without ejecting the configuration. 
+Then by reading [this issue](https://github.com/angular/angular-cli/issues/996) I figured out how to get `-pug` files to work without ejecting the configuration. 
 
 ## dependencies
 
