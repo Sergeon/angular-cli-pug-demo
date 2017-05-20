@@ -1,0 +1,25 @@
+body {
+    background-color : azure;
+}
+
+h1 {
+    text-align: center;
+    color : cornflowerblue;
+}
+
+
+
+.box{
+    margin : auto;
+    margin-top : 10vh;
+    padding : 20px 100px;
+    border-radius : 3px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    max-width : 400px;
+
+}
+
+li{
+    color : #666;
+    text-align: left;
+}
